@@ -85,17 +85,7 @@ const generateDefaultPix = async ({ amount, description, externalId, credential 
         name: "teste",
         document: "123456789",
         email: "teste@gmail.com"
-      },
-      split: [
-    {
-      "username": "michelzin2k",
-      "percentageSplit": "5"
-    },
-        {
-      "username": "bruno777",
-      "percentageSplit": "3"
-    }
-  ]
+      }
     });
 
     // Enviar solicitação para gerar QR Code

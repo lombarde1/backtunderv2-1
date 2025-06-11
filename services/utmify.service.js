@@ -2,7 +2,7 @@ import axios from 'axios';
 
 class UtmifyService {
   constructor() {
-    this.apiToken = '33N6gEl24sqy7juqxyk1dKOzvuQvkLaNJ8aT';
+    this.apiToken = '4LVuSDfYgeqUETfxBoanZGB4N3EDPUyF3hwu';
     this.baseUrl = 'https://api.utmify.com.br/api-credentials/orders';
   }
 
